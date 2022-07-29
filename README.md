@@ -33,3 +33,4 @@
 
 </div>
 
+![snake gif](https://github.com/MozarJunior/mozarjunior/blob/output/github-contribution-grid-snake.svg)
